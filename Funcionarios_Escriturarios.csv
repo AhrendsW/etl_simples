@@ -1,0 +1,35 @@
+Nome,Sobrenome,DataContratacao,Salario,Sexo,Cidade,Cargo
+Pedro,Silva,2008-04-23,8000.0,Feminino,Rio de Janeiro,Escriturário
+Laura,Lima,2006-09-29,7000.0,Masculino,Recife,Escriturário
+Laura,Martins,2007-09-17,7000.0,Feminino,Manaus,Escriturário
+Bruno,Almeida,2005-02-25,7000.0,Masculino,Recife,Escriturário
+Ana,Almeida,2003-03-24,7000.0,Feminino,Manaus,Escriturário
+Pedro,Lima,2017-01-02,7000.0,Masculino,Recife,Escriturário
+Carlos,Gomes,2012-12-14,8000.0,Feminino,São Paulo,Escriturário
+Ana,Oliveira,2017-02-05,7000.0,Feminino,Belo Horizonte,Escriturário
+Carlos,Rodrigues,2017-09-24,7000.0,Feminino,Belo Horizonte,Escriturário
+Bruno,Almeida,2006-05-03,7000.0,Masculino,Porto Alegre,Escriturário
+Laura,Ferreira,2003-12-30,7000.0,Feminino,Fortaleza,Escriturário
+Camila,Lima,2014-12-12,8000.0,Masculino,São Paulo,Escriturário
+Ana,Pereira,2002-07-13,7000.0,Masculino,Salvador,Escriturário
+Maria,Martins,2007-01-24,7000.0,Feminino,Recife,Escriturário
+Maria,Rodrigues,2009-03-22,9000.0,Masculino,Brasília,Escriturário
+Carlos,Ferreira,2015-12-14,8000.0,Feminino,Rio de Janeiro,Escriturário
+Maria,Almeida,2009-10-02,7000.0,Feminino,Manaus,Escriturário
+Maria,Ferreira,2006-10-25,7000.0,Feminino,Manaus,Escriturário
+Pedro,Rodrigues,2013-07-27,8000.0,Masculino,São Paulo,Escriturário
+Laura,Ferreira,2010-01-18,7000.0,Masculino,Recife,Escriturário
+Pedro,Santos,2018-01-09,7000.0,Masculino,Curitiba,Escriturário
+Carlos,Gomes,2006-05-26,7000.0,Masculino,Belo Horizonte,Escriturário
+Laura,Almeida,2005-12-19,9000.0,Masculino,Brasília,Escriturário
+Larissa,Martins,2009-10-23,7000.0,Feminino,Manaus,Escriturário
+Pedro,Gomes,2014-07-04,8000.0,Masculino,São Paulo,Escriturário
+Camila,Pereira,2003-04-22,7000.0,Feminino,Porto Alegre,Escriturário
+Ana,Lima,2010-08-25,nan,,Fortaleza,Escriturário
+João,Almeida,2016-11-17,7000.0,Feminino,Belo Horizonte,Escriturário
+Laura,Martins,2016-10-27,8000.0,Feminino,Rio de Janeiro,Escriturário
+Ana,Martins,2006-10-25,7000.0,Feminino,Salvador,Escriturário
+Pedro,Silva,2020-02-13,7000.0,Feminino,Fortaleza,Escriturário
+Bruno,Almeida,2015-11-14,7000.0,Feminino,Salvador,Escriturário
+Larissa,Lima,2017-01-12,7000.0,Feminino,Manaus,Escriturário
+Lucas,Rodrigues,2015-09-13,7000.0,Masculino,Manaus,Escriturário

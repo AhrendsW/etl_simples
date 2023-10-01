@@ -1,0 +1,80 @@
+Nome,Sobrenome,DataContratacao,Salario,Sexo,Cidade,Cargo
+Larissa,Pereira,2000-07-21,7000.0,Feminino,Recife,Gerente de Equipe
+Carlos,Rodrigues,2002-03-03,7000.0,Feminino,Salvador,Gerente de Soluções
+Pedro,Ferreira,2014-02-20,18000.0,Masculino,Rio de Janeiro,Gerente de Equipe
+Ana,Santos,2019-10-08,7000.0,Masculino,Curitiba,Gerente de Soluções
+Bruno,Almeida,2015-06-30,7000.0,Feminino,Recife,Gerente de Soluções
+Bruno,Gomes,2019-12-02,7000.0,Masculino,Manaus,Gerente de Soluções
+Camila,Santos,2009-02-01,25000.0,Masculino,Rio de Janeiro,Gerente de Soluções
+Ana,Almeida,2013-06-15,nan,,Fortaleza,Gerente de Equipe
+Larissa,Rodrigues,2008-08-01,7000.0,Feminino,Salvador,Gerente de Equipe
+Lucas,Rodrigues,2015-02-21,7000.0,Masculino,Belo Horizonte,Gerente de Equipe
+João,Rodrigues,2020-10-04,7000.0,Feminino,Manaus,Gerente de Equipe
+Ana,Oliveira,2012-06-16,25000.0,Masculino,São Paulo,Gerente de Soluções
+Camila,Oliveira,2020-06-05,7000.0,Masculino,Recife,Gerente de Soluções
+Lucas,Almeida,2008-08-22,7000.0,Feminino,Recife,Gerente de Soluções
+Bruno,Almeida,2005-10-15,7000.0,Feminino,Fortaleza,Gerente de Equipe
+Ana,Santos,2019-02-13,7000.0,Feminino,Recife,Gerente de Soluções
+Lucas,Lima,2000-05-09,7000.0,Feminino,Curitiba,Gerente de Soluções
+Laura,Pereira,2004-02-13,7000.0,Feminino,Porto Alegre,Gerente de Equipe
+Camila,Ferreira,2002-09-14,7000.0,Feminino,Fortaleza,Gerente de Soluções
+Ana,Silva,2000-08-09,7000.0,Masculino,Salvador,Gerente de Equipe
+Maria,Lima,2013-11-02,18000.0,Masculino,Rio de Janeiro,Gerente de Equipe
+Carlos,Ferreira,2021-01-18,7000.0,Feminino,Belo Horizonte,Gerente de Soluções
+Pedro,Martins,2012-12-20,7000.0,Feminino,Belo Horizonte,Gerente de Equipe
+Camila,Almeida,2001-03-01,7000.0,Masculino,Curitiba,Gerente de Equipe
+Maria,Silva,2010-07-16,7000.0,Feminino,Recife,Gerente de Equipe
+Pedro,Oliveira,2020-08-22,7000.0,Masculino,Salvador,Gerente de Soluções
+Ana,Gomes,2021-05-21,18000.0,Feminino,São Paulo,Gerente de Equipe
+Laura,Ferreira,2016-09-01,25000.0,Masculino,Rio de Janeiro,Gerente de Soluções
+Larissa,Lima,2013-12-18,7000.0,Masculino,Belo Horizonte,Gerente de Soluções
+Maria,Pereira,2013-09-11,7000.0,Feminino,Fortaleza,Gerente de Equipe
+Ana,Almeida,2010-06-30,7000.0,Feminino,Salvador,Gerente de Soluções
+João,Ferreira,2007-01-19,7000.0,Feminino,Curitiba,Gerente de Equipe
+João,Ferreira,2004-04-07,7000.0,Masculino,Belo Horizonte,Gerente de Soluções
+Laura,Martins,2008-05-17,25000.0,Feminino,São Paulo,Gerente de Soluções
+Ana,Ferreira,2019-11-18,7000.0,Feminino,Belo Horizonte,Gerente de Equipe
+Camila,Martins,2006-02-23,7000.0,Feminino,Salvador,Gerente de Equipe
+Bruno,Lima,2019-07-24,28000.0,Masculino,Brasília,Gerente de Soluções
+Laura,Gomes,2005-11-30,18000.0,Feminino,São Paulo,Gerente de Equipe
+Carlos,Lima,2016-12-19,7000.0,Feminino,Curitiba,Gerente de Equipe
+Carlos,Pereira,2014-08-12,7000.0,Masculino,Manaus,Gerente de Soluções
+Carlos,Rodrigues,2013-07-22,7000.0,Feminino,Curitiba,Gerente de Equipe
+Camila,Oliveira,2003-01-06,7000.0,Masculino,Belo Horizonte,Gerente de Equipe
+Laura,Almeida,2000-06-19,25000.0,Feminino,São Paulo,Gerente de Soluções
+Bruno,Lima,2011-09-30,7000.0,Feminino,Curitiba,Gerente de Soluções
+Lucas,Gomes,2014-10-12,7000.0,Feminino,Curitiba,Gerente de Soluções
+Lucas,Lima,2015-08-07,7000.0,Feminino,Belo Horizonte,Gerente de Soluções
+Larissa,Pereira,2015-05-16,7000.0,Feminino,Curitiba,Gerente de Soluções
+Bruno,Ferreira,2016-01-20,28000.0,Masculino,Brasília,Gerente de Soluções
+João,Almeida,2008-03-20,7000.0,Feminino,Manaus,Gerente de Equipe
+Camila,Santos,2007-08-21,7000.0,Masculino,Curitiba,Gerente de Equipe
+Lucas,Martins,2003-10-07,7000.0,Masculino,Manaus,Gerente de Equipe
+Laura,Almeida,2018-08-21,7000.0,Masculino,Manaus,Gerente de Soluções
+Ana,Martins,2019-10-28,7000.0,Feminino,Porto Alegre,Gerente de Soluções
+Lucas,Martins,2019-07-09,7000.0,Masculino,Curitiba,Gerente de Equipe
+Bruno,Rodrigues,2013-09-11,25000.0,Masculino,São Paulo,Gerente de Soluções
+Laura,Lima,2011-12-04,7000.0,Feminino,Manaus,Gerente de Equipe
+Camila,Rodrigues,2011-07-26,7000.0,Feminino,Porto Alegre,Gerente de Soluções
+Larissa,Santos,2003-11-15,25000.0,Masculino,São Paulo,Gerente de Soluções
+Bruno,Ferreira,2020-08-16,25000.0,Masculino,São Paulo,Gerente de Soluções
+Ana,Silva,2009-04-25,7000.0,Masculino,Recife,Gerente de Soluções
+Ana,Pereira,2004-04-19,7000.0,Masculino,Belo Horizonte,Gerente de Soluções
+Camila,Santos,2003-05-28,7000.0,Feminino,Recife,Gerente de Soluções
+Ana,Rodrigues,2001-02-22,25000.0,Masculino,Rio de Janeiro,Gerente de Soluções
+Laura,Lima,2016-09-16,20000.0,Feminino,Brasília,Gerente de Equipe
+João,Lima,2015-09-05,7000.0,Feminino,Porto Alegre,Gerente de Equipe
+Larissa,Ferreira,2017-06-17,7000.0,Feminino,Recife,Gerente de Soluções
+Pedro,Santos,2001-05-25,7000.0,Feminino,Manaus,Gerente de Equipe
+Maria,Gomes,2004-09-06,7000.0,Masculino,Belo Horizonte,Gerente de Equipe
+Carlos,Ferreira,2000-03-28,25000.0,Masculino,São Paulo,Gerente de Soluções
+Pedro,Oliveira,2020-11-05,7000.0,Masculino,Manaus,Gerente de Soluções
+Ana,Santos,2004-01-19,25000.0,Feminino,São Paulo,Gerente de Soluções
+Bruno,Martins,2000-08-16,7000.0,Feminino,Manaus,Gerente de Equipe
+Camila,Lima,2011-06-26,7000.0,Feminino,Porto Alegre,Gerente de Equipe
+Maria,Almeida,2020-01-15,7000.0,Feminino,Belo Horizonte,Gerente de Equipe
+Bruno,Ferreira,2007-01-15,7000.0,Masculino,Belo Horizonte,Gerente de Equipe
+Larissa,Pereira,2004-02-29,25000.0,Masculino,Rio de Janeiro,Gerente de Soluções
+Pedro,Silva,2015-07-09,7000.0,Feminino,Fortaleza,Gerente de Equipe
+Carlos,Lima,2011-07-16,25000.0,Feminino,São Paulo,Gerente de Soluções
+Camila,Santos,2002-06-26,7000.0,Masculino,Manaus,Gerente de Equipe

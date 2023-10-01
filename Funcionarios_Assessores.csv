@@ -1,0 +1,88 @@
+Nome,Sobrenome,DataContratacao,Salario,Sexo,Cidade,Cargo
+Pedro,Rodrigues,2007-08-16,7000.0,Masculino,Belo Horizonte,Assessor 1
+Carlos,Santos,2015-05-07,7000.0,Feminino,Recife,Assessor 2
+Laura,Oliveira,2016-04-04,7000.0,Masculino,Curitiba,Assessor 2
+Camila,Oliveira,2014-03-14,7000.0,Masculino,Belo Horizonte,Assessor 1
+Camila,Ferreira,2013-08-12,7000.0,Masculino,Curitiba,Assessor 1
+Bruno,Gomes,2015-08-10,11000.0,Feminino,Rio de Janeiro,Assessor 1
+Ana,Rodrigues,2005-11-23,15000.0,Masculino,São Paulo,Assessor 3
+Ana,Silva,2013-03-28,7000.0,Feminino,Manaus,Assessor 1
+Camila,Lima,2009-09-06,16000.0,Masculino,Brasília,Assessor 3
+Lucas,Rodrigues,2005-11-09,15000.0,Masculino,Rio de Janeiro,Assessor 3
+Larissa,Ferreira,2020-10-06,7000.0,Feminino,Manaus,Assessor 1
+João,Lima,2014-11-26,7000.0,Feminino,Fortaleza,Assessor 2
+Maria,Martins,2012-05-07,7000.0,Feminino,Curitiba,Assessor 1
+João,Santos,2014-04-22,7000.0,Masculino,Curitiba,Assessor 2
+Pedro,Silva,2007-01-19,7000.0,Masculino,Belo Horizonte,Assessor 2
+Larissa,Rodrigues,2009-04-22,7000.0,Feminino,Fortaleza,Assessor 2
+Laura,Lima,2008-02-02,7000.0,Feminino,Curitiba,Assessor 1
+Camila,Ferreira,2015-07-04,nan,,Porto Alegre,Assessor 2
+Ana,Almeida,2000-05-06,13000.0,Feminino,Rio de Janeiro,Assessor 2
+Pedro,Gomes,2005-10-23,7000.0,Feminino,Salvador,Assessor 2
+Larissa,Lima,2002-11-14,7000.0,Feminino,Salvador,Assessor 3
+Camila,Oliveira,2021-05-15,16000.0,Feminino,Brasília,Assessor 3
+Carlos,Ferreira,2017-04-15,7000.0,Masculino,Curitiba,Assessor 1
+Carlos,Santos,2003-09-10,7000.0,Feminino,Manaus,Assessor 1
+Ana,Oliveira,2004-02-13,7000.0,Masculino,Belo Horizonte,Assessor 2
+Pedro,Oliveira,2020-06-01,7000.0,Masculino,Porto Alegre,Assessor 2
+Larissa,Gomes,2005-03-27,7000.0,Feminino,Recife,Assessor 1
+Bruno,Lima,2002-06-22,7000.0,Masculino,Manaus,Assessor 2
+Bruno,Oliveira,2014-06-12,15000.0,Feminino,Rio de Janeiro,Assessor 3
+Camila,Almeida,2021-08-17,7000.0,Masculino,Manaus,Assessor 3
+João,Pereira,2012-07-07,7000.0,Feminino,Recife,Assessor 1
+Bruno,Oliveira,2004-09-14,7000.0,Feminino,Porto Alegre,Assessor 3
+Maria,Lima,2017-11-27,nan,,Manaus,Assessor 2
+Lucas,Almeida,2010-05-29,7000.0,Masculino,Belo Horizonte,Assessor 3
+Carlos,Oliveira,2019-11-10,7000.0,Feminino,Fortaleza,Assessor 3
+Carlos,Oliveira,2018-03-31,7000.0,Feminino,Belo Horizonte,Assessor 1
+João,Martins,2015-04-27,7000.0,Feminino,Manaus,Assessor 1
+Lucas,Rodrigues,2015-11-19,7000.0,Feminino,Manaus,Assessor 1
+Carlos,Ferreira,2001-04-14,13000.0,Masculino,São Paulo,Assessor 2
+Bruno,Pereira,2002-07-23,7000.0,Feminino,Curitiba,Assessor 2
+João,Gomes,2021-04-03,7000.0,Masculino,Manaus,Assessor 2
+Laura,Silva,2006-09-20,7000.0,Feminino,Belo Horizonte,Assessor 1
+Larissa,Ferreira,2003-07-30,7000.0,Feminino,Recife,Assessor 2
+Larissa,Oliveira,2013-02-28,13000.0,Feminino,São Paulo,Assessor 2
+Lucas,Lima,2004-07-29,7000.0,Feminino,Salvador,Assessor 2
+Camila,Gomes,2011-04-06,13000.0,Feminino,São Paulo,Assessor 2
+Maria,Oliveira,2009-12-10,7000.0,Masculino,Recife,Assessor 3
+Bruno,Martins,2016-04-05,nan,,Salvador,Assessor 1
+Lucas,Gomes,2003-02-21,7000.0,Feminino,Belo Horizonte,Assessor 2
+João,Rodrigues,2010-06-04,7000.0,Feminino,Recife,Assessor 1
+Larissa,Almeida,2019-01-25,15000.0,Feminino,São Paulo,Assessor 3
+Lucas,Pereira,2013-09-10,7000.0,Feminino,Curitiba,Assessor 1
+Bruno,Oliveira,2011-04-17,7000.0,Masculino,Manaus,Assessor 1
+Pedro,Lima,2020-07-08,7000.0,Masculino,Belo Horizonte,Assessor 1
+Lucas,Pereira,2009-04-10,7000.0,Masculino,Curitiba,Assessor 2
+Camila,Ferreira,2010-12-25,7000.0,Masculino,Curitiba,Assessor 2
+Pedro,Almeida,2012-07-26,7000.0,Masculino,Curitiba,Assessor 3
+Carlos,Oliveira,2018-09-18,7000.0,Feminino,Porto Alegre,Assessor 1
+Bruno,Oliveira,2007-02-01,7000.0,Feminino,Porto Alegre,Assessor 3
+Camila,Santos,2014-06-29,11000.0,Masculino,Rio de Janeiro,Assessor 1
+Camila,Silva,2013-08-29,7000.0,Feminino,Porto Alegre,Assessor 2
+Pedro,Gomes,2014-09-28,7000.0,Feminino,Porto Alegre,Assessor 1
+João,Ferreira,2001-08-02,7000.0,Feminino,Recife,Assessor 3
+Ana,Silva,2005-04-18,7000.0,Masculino,Manaus,Assessor 1
+João,Oliveira,2020-09-19,7000.0,Masculino,Belo Horizonte,Assessor 1
+Maria,Silva,2020-09-11,7000.0,Masculino,Porto Alegre,Assessor 2
+Pedro,Ferreira,2020-06-27,7000.0,Masculino,Salvador,Assessor 2
+Laura,Pereira,2019-02-08,14000.0,Masculino,Brasília,Assessor 2
+Ana,Almeida,2019-08-09,7000.0,Masculino,Fortaleza,Assessor 1
+Larissa,Santos,2012-02-19,7000.0,Masculino,Belo Horizonte,Assessor 2
+Pedro,Silva,2000-08-11,7000.0,Masculino,Porto Alegre,Assessor 1
+Pedro,Martins,2008-04-20,7000.0,Masculino,Porto Alegre,Assessor 3
+Lucas,Oliveira,2014-10-11,7000.0,Masculino,Fortaleza,Assessor 2
+Larissa,Silva,2006-06-21,7000.0,Masculino,Belo Horizonte,Assessor 3
+Bruno,Gomes,2005-02-22,7000.0,Feminino,Belo Horizonte,Assessor 2
+Maria,Lima,2020-04-01,12000.0,Feminino,Brasília,Assessor 1
+Laura,Lima,2009-12-19,7000.0,Masculino,Salvador,Assessor 2
+Maria,Gomes,2008-07-13,7000.0,Feminino,Recife,Assessor 3
+Pedro,Martins,2005-06-26,13000.0,Feminino,Rio de Janeiro,Assessor 2
+Bruno,Martins,2007-08-28,7000.0,Masculino,Porto Alegre,Assessor 3
+Lucas,Almeida,2009-07-11,11000.0,Feminino,São Paulo,Assessor 1
+Pedro,Santos,2001-12-10,7000.0,Feminino,Curitiba,Assessor 2
+Camila,Oliveira,2010-01-15,7000.0,Masculino,Belo Horizonte,Assessor 3
+João,Pereira,2019-10-08,16000.0,Masculino,Brasília,Assessor 3
+Ana,Gomes,2015-02-01,7000.0,Feminino,Curitiba,Assessor 2
+João,Gomes,2018-11-10,7000.0,Masculino,Belo Horizonte,Assessor 1
+Bruno,Gomes,2021-07-06,7000.0,Feminino,Porto Alegre,Assessor 1
